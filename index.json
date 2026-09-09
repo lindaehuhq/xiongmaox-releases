@@ -1,1 +1,15 @@
-{}
+{
+  "generatedAt": "2026-09-09T17:34:22Z",
+  "products": [
+    {
+      "channels": [
+        "beta",
+        "stable"
+      ],
+      "id": "xiongmaox",
+      "manifestPath": "products/xiongmaox/{channel}.json",
+      "name": "熊猫助手X"
+    }
+  ],
+  "schemaVersion": 2
+}
