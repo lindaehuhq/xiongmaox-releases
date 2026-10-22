@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "xiongmaox",
   "channel": "stable",
-  "revision": 9,
-  "generatedAt": "2026-10-22T05:37:39Z",
+  "revision": 10,
+  "generatedAt": "2026-10-22T06:00:57Z",
   "enabled": true,
   "latestVersion": "1.4.0",
   "build": 1,
@@ -33,9 +33,9 @@
     }
   },
   "announcement": {
-    "enabled": false,
-    "id": "",
-    "message": "",
+    "enabled": true,
+    "id": "db82d358b08e",
+    "message": "新版本已发布：新增统计中心、列表搜索和做单Key。更新前请先停止所有浏览器。",
     "startsAt": "",
     "endsAt": ""
   }
