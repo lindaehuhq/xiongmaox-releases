@@ -2,40 +2,40 @@
   "schemaVersion": 2,
   "productId": "xiongmaox",
   "channel": "stable",
-  "revision": 10,
-  "generatedAt": "2026-10-22T06:00:57Z",
+  "revision": 11,
+  "generatedAt": "2026-10-22T17:41:16Z",
   "enabled": true,
   "latestVersion": "1.4.0",
-  "build": 1,
+  "build": 2,
   "minimumVersion": "",
   "blockedVersions": [],
   "allowDowngrade": false,
-  "force": false,
+  "force": true,
   "forceAfter": "",
   "rolloutPercent": 100,
   "rolloutSalt": "1.4.0",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-10-22T05:37:33Z",
+  "publishedAt": "2026-10-22T17:41:10Z",
   "title": "新增统计中心、列表搜索与做单Key",
   "notes": "1. 新增统计中心：管理页「统计信息」旁点「统计中心」，查看运行中、在线、掉线、未登录等数量和近 7 天每天新上号，点卡片或日期可筛选列表\n2. 统计中心可导出当前列表：端口、登录状态、登录用户、备注、第一次上号时间，Excel、WPS 直接打开\n3. 新增列表搜索：按端口（比特模式为序号）、备注、登录用户搜索，可和左侧筛选一起用\n4. 新增做单Key：平台设置里选「做单Key」，粘贴做单Key 就能领任务，不用再填账号密码\n5. 备注可双击直接修改：回车或点别处保存，运行中也能改",
-  "releasePageUrl": "https://github.com/lindaehuhq/xiongmaox-releases/releases/tag/v1.4.0",
+  "releasePageUrl": "https://github.com/lindaehuhq/xiongmaox-releases/releases/tag/v1.4.0-b2",
   "assets": {
     "windows-amd64": {
       "fileName": "xiongmaox-1.4.0-windows-amd64.exe",
-      "size": 7893025,
-      "sha256": "c590da014cb30eeea382c21356d22051369c48af3ca72f268963c8d7591e8f31",
+      "size": 7895073,
+      "sha256": "bded170d50ce6b8cf91c054b779b808a7f3ba63c81460b2a3c133f7707c5f7a6",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.4.0/xiongmaox-1.4.0-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.4.0/xiongmaox-1.4.0-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.4.0/xiongmaox-1.4.0-windows-amd64.exe",
-        "https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.4.0/xiongmaox-1.4.0-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.4.0-b2/xiongmaox-1.4.0-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.4.0-b2/xiongmaox-1.4.0-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.4.0-b2/xiongmaox-1.4.0-windows-amd64.exe",
+        "https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.4.0-b2/xiongmaox-1.4.0-windows-amd64.exe"
       ]
     }
   },
   "announcement": {
-    "enabled": true,
-    "id": "db82d358b08e",
-    "message": "新版本已发布：新增统计中心、列表搜索和做单Key。更新前请先停止所有浏览器。",
+    "enabled": false,
+    "id": "",
+    "message": "",
     "startsAt": "",
     "endsAt": ""
   }
