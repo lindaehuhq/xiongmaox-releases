@@ -2,10 +2,10 @@
   "schemaVersion": 2,
   "productId": "xiongmaox",
   "channel": "stable",
-  "revision": 14,
-  "generatedAt": "2026-11-03T19:38:39Z",
+  "revision": 15,
+  "generatedAt": "2026-11-04T02:57:38Z",
   "enabled": true,
-  "latestVersion": "1.5.0",
+  "latestVersion": "1.5.1",
   "build": 1,
   "minimumVersion": "",
   "blockedVersions": [],
@@ -13,22 +13,22 @@
   "force": true,
   "forceAfter": "",
   "rolloutPercent": 100,
-  "rolloutSalt": "1.5.0",
+  "rolloutSalt": "1.5.1",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-03T19:38:10Z",
+  "publishedAt": "2026-11-04T02:57:14Z",
   "title": "修复比特浏览器批量启动失败",
   "notes": "1. 修复比特浏览器同时启动多个窗口时提示「浏览器启动失败」\n2. 优化部分报错提示\n3. 修复检查账号信息api失效导致的其他bug",
-  "releasePageUrl": "https://github.com/lindaehuhq/xiongmaox-releases/releases/tag/v1.5.0",
+  "releasePageUrl": "https://github.com/lindaehuhq/xiongmaox-releases/releases/tag/v1.5.1",
   "assets": {
     "windows-amd64": {
-      "fileName": "xiongmaox-1.5.0-windows-amd64.exe",
-      "size": 7895585,
-      "sha256": "0cb539b4cb038f72cb7ba44862f9ebef88d4dd35011f885eb47b21ef534e8876",
+      "fileName": "xiongmaox-1.5.1-windows-amd64.exe",
+      "size": 7896609,
+      "sha256": "7250ea1d93feb5a84d1d90ff8db745c9fda18ef7d4a6deed78e05050c011970a",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.0/xiongmaox-1.5.0-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.0/xiongmaox-1.5.0-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.0/xiongmaox-1.5.0-windows-amd64.exe",
-        "https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.0/xiongmaox-1.5.0-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.1/xiongmaox-1.5.1-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.1/xiongmaox-1.5.1-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.1/xiongmaox-1.5.1-windows-amd64.exe",
+        "https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.1/xiongmaox-1.5.1-windows-amd64.exe"
       ]
     }
   },
