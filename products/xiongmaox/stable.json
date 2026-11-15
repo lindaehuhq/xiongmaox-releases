@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "xiongmaox",
   "channel": "stable",
-  "revision": 16,
-  "generatedAt": "2026-11-15T17:34:57Z",
+  "revision": 17,
+  "generatedAt": "2026-11-15T17:35:59Z",
   "enabled": true,
   "latestVersion": "1.5.2",
   "build": 1,
@@ -33,9 +33,9 @@
     }
   },
   "announcement": {
-    "enabled": false,
-    "id": "",
-    "message": "",
+    "enabled": true,
+    "id": "e93681054cf0",
+    "message": "1.5.2 已发布，修复已知问题，请及时更新。",
     "startsAt": "",
     "endsAt": ""
   }
