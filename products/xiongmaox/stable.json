@@ -2,10 +2,10 @@
   "schemaVersion": 2,
   "productId": "xiongmaox",
   "channel": "stable",
-  "revision": 17,
-  "generatedAt": "2026-11-15T17:35:59Z",
+  "revision": 18,
+  "generatedAt": "2026-11-17T16:09:21Z",
   "enabled": true,
-  "latestVersion": "1.5.2",
+  "latestVersion": "1.5.3",
   "build": 1,
   "minimumVersion": "",
   "blockedVersions": [],
@@ -13,29 +13,29 @@
   "force": false,
   "forceAfter": "",
   "rolloutPercent": 100,
-  "rolloutSalt": "1.5.2",
+  "rolloutSalt": "1.5.3",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-15T17:34:51Z",
-  "title": "修复已知问题",
-  "notes": "1. 修复已知问题",
-  "releasePageUrl": "https://github.com/lindaehuhq/xiongmaox-releases/releases/tag/v1.5.2",
+  "publishedAt": "2026-11-17T13:40:45Z",
+  "title": "修复抖音点赞，优化平台接口",
+  "notes": "1. 修复dy点赞 等问题 如果点赞有问题请更新\n2. 优化平台接口",
+  "releasePageUrl": "https://github.com/lindaehuhq/xiongmaox-releases/releases/tag/v1.5.3",
   "assets": {
     "windows-amd64": {
-      "fileName": "xiongmaox-1.5.2-windows-amd64.exe",
+      "fileName": "xiongmaox-1.5.3-windows-amd64.exe",
       "size": 7948321,
-      "sha256": "ea90faa6065e37cdcd3496e4661930c8e4f2b146f28e12524795d7b919279f44",
+      "sha256": "04c51e8a93245140b26365ecefc4cd42844b716f614a1dd6772b2919468b505c",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.2/xiongmaox-1.5.2-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.2/xiongmaox-1.5.2-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.2/xiongmaox-1.5.2-windows-amd64.exe",
-        "https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.2/xiongmaox-1.5.2-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.3/xiongmaox-1.5.3-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.3/xiongmaox-1.5.3-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.3/xiongmaox-1.5.3-windows-amd64.exe",
+        "https://github.com/lindaehuhq/xiongmaox-releases/releases/download/v1.5.3/xiongmaox-1.5.3-windows-amd64.exe"
       ]
     }
   },
   "announcement": {
-    "enabled": true,
-    "id": "e93681054cf0",
-    "message": "1.5.2 已发布，修复已知问题，请及时更新。",
+    "enabled": false,
+    "id": "",
+    "message": "",
     "startsAt": "",
     "endsAt": ""
   }
